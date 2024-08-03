@@ -1,1 +1,1 @@
-Sitemap: /lab-website-template/preview/pr-1/sitemap.xml
+Sitemap: /depasquale-lab-website/preview/pr-1/sitemap.xml
